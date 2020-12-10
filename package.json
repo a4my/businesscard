@@ -1,0 +1,17 @@
+{
+  "name": "profile-card-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "live-server": "^1.2.1",
+    "particles.js": "^2.0.0"
+  }
+}
